@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: 4204dce798fee458c8e1c002fe03270f
+timeCreated: 1516515258
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: San Francisco Display
+  fontNames:
+  - San Francisco Display
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 019dcbce22931411e89c01c4ac3b4091, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
